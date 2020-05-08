@@ -1,0 +1,101 @@
+.info{
+    display: flex;
+    background-color:rgb(68, 89, 209);
+    color: white;
+    align-content:right;
+        
+}
+.info .donationoption{
+    align-content: right;
+
+}
+
+.SM,.donationoption{
+    cursor: pointer;
+}
+
+
+
+li {
+    display: inline;
+  }
+    
+
+
+.moreinfo{
+    margin: 10px 30px 10px 30px;
+    padding: 10px 0px 10px 0px;
+    background-color: rgb(68, 89, 209);
+    height: 30px;
+    color: white;
+}
+
+.introduction{
+    color:rgb(68, 89,209);
+    text-align: center;
+    align-content: center;        
+}
+.introductiondetails{
+    padding: 0px ;
+    margin: 110px;
+    text-align: justify;
+    
+}
+.servicesinnumber, .img{
+    display: flex;
+    background-color: rgb(68, 89, 209);
+    padding: 30px;
+    height: 100px;
+    color: white;
+
+}
+.information{
+
+    background-color: rgb(68, 89, 209);
+    color: white;
+    text-align: center;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 50px 50px 50px 50px;
+
+        }
+
+.what{
+    padding-top: 10px;
+    color: rgb(68, 89,209);
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.projecta{
+    display: flex;
+    color: rgb(68, 89,209);
+    font-weight: bolder;
+    justify-content:space-between;
+     padding-top: 30px 20px 30px 20px;
+     margin: 10px 30px 10px 30px;
+
+     
+     
+}
+
+/* .projectb{
+    display: flex;
+    color: rgb(68, 89,209);
+    font-weight: bolder;
+     justify-content:space-between;
+      padding-top: 30px 20px 30px 20px;
+     margin: 10px 30px 10px 30px; 
+     text-align: center;
+     
+} */
+
+
+
+.row{
+    display: flex;
+}
+
